@@ -7,7 +7,7 @@ from bullet import Bullet
 from alien import Alien
 
 
-# 265
+# 264
 class AlienInvasion:
     """Overall class to manage game assets and behavior"""
 
